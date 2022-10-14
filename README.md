@@ -24,6 +24,9 @@
   
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 </div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png">
+</div>
+  
   
   ##
  
