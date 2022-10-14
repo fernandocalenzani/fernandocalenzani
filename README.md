@@ -35,6 +35,6 @@
   ##
  
 <div> 
-<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 
 </div>
