@@ -28,12 +28,12 @@
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <br>
-  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://iconape.com/wp-content/files/cw/70565/png/javascript-2.png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://iconape.com/wp-content/files/cw/70565/png/javascript-2.png">
 </div>  
   
   ##
  
 <div> 
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
+<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 
 </div>
