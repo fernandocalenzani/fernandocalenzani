@@ -29,7 +29,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <br>
   <img align="left" alt="Rafa-Python" height="30" width="40" src="https://iconape.com/wp-content/files/cw/70565/png/javascript-2.png">
-<hr>  
 </div>  
   
   ##
