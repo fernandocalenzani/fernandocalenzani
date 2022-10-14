@@ -27,13 +27,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png">
   
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://iconape.com/wp-content/files/cw/70565/png/javascript-2.png">
 </div>  
   
   ##
  
 <div> 
-<img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
-
+<img align="center" alt="machine-learning" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 </div>
