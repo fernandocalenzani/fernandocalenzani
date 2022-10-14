@@ -19,14 +19,13 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png">
+  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://iconape.com/wp-content/files/cw/70565/png/javascript-2.png">
   
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
-</div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png">
-</div>
-  
+</div>  
   
   ##
  
