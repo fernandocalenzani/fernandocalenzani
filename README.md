@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fernando Calenzani Muller</h1>
 <h3 align="center">🎓 MSc in Deep Learning | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of artificial intelligence.</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning**
+- 🔭 I’m currently working on Machine Learning and Deep Learning
 
-- 🌱 I’m currently learning **about Delving deeper into state-of-the-art neural network architectures and their applications.**
+- 🌱 I’m currently learning about Delving deeper into state-of-the-art neural network architectures and their applications.
 
-- 👯 I’m looking to collaborate on **excited to contribute to cutting-edge research in deep learning, particularly in areas like computer vision, natural language processing, and reinforcement learning.**
+- 👯 I’m looking to collaborate on excited to contribute to cutting-edge research in deep learning, particularly in areas like computer vision, natural language processing, and reinforcement learning.
 
-- 💬 Ask me about **My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil. A simple person, over time I learned that happiness lies in helping others, and since then I have always dedicated myself to doing good for others. I like working independently and bringing results. I like working independently and bringing results.**
+- 💬 About me: My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil. A simple person, over time I learned that happiness lies in helping others, and since then I have always dedicated myself to doing good for others. I like working independently and bringing results. I like working independently and bringing results.
 
 - 📫 How to reach me **fernandocalenzani@gmail.com**
 
