@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Calenzani Muller</h1>
-<p align="center">🎓 MSc in Deep Learning | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of artificial intelligence.</p>
+<p align="right">🎓 MSc in Deep Learning | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of artificial intelligence.</p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning
 
