@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fernando Calenzani Muller</h1>
-<p align="right">🎓 MSc in Deep Learning | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of artificial intelligence.</p>
+<p align="right">🎓 I'm Software Engineer | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of low latency algorithms.</p>
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning
+- 🔭 I’m currently working as a Backend Engineer
 
-- 🌱 I’m currently learning about Delving deeper into state-of-the-art neural network architectures and their applications.
+- 💬 About me: My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil. 🚀 Hello LinkedIn fam! I'm Fernando Calenzani, a Software Engineer passionate about code and a world explorer in the making! 💻✨
 
-- 👯 I’m looking to collaborate on excited to contribute to cutting-edge research in deep learning, particularly in areas like computer vision, natural language processing, and reinforcement learning.
+Working with technology is amazing, but my journey goes beyond the digital world. My life goal? Connect, learn, and make a difference!
 
-- 💬 About me: My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil. A simple person, over time I learned that happiness lies in helping others, and since then I have always dedicated myself to doing good for others. I like working independently and bringing results. I like working independently and bringing results.
+I love to travel 🌍✈️, and my mission is to explore cultures, absorb knowledge, and apply these unique experiences to my work. I believe global diversity drives innovation.
+
+Moreover, I have a serious commitment to social and environmental responsibility. Before I go, I want to leave a positive impact. I'm on the lookout for opportunities to apply my skills to projects that positively impact the world.
+
+If you share these vibes or have insights on how we can collaborate, I'm always open to new connections and ideas! 🌐🌟.
 
 - 📫 How to reach me **fernandocalenzani@gmail.com**
 
