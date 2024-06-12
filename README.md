@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Calenzani Muller</h1>
-<p align="right">🎓 I'm Software Engineer | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of low latency algorithms.</p>
+<p align="right">🎓 I'm Electrical Engineer | Passionate about unraveling the mysteries of neural networks and pushing the boundaries of low latency algorithms.</p>
 
-- 🔭 I’m currently working as a Backend Engineer
-
-- 💬 About me: My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil. 🚀 Hello LinkedIn fam! I'm Fernando Calenzani, a Software Engineer passionate about code and a world explorer in the making! 💻✨
+- 💬 About me: My name is Fernando Calenzani Muller, I’m 28 years old and I’m from Brazil.
 
 Working with technology is amazing, but my journey goes beyond the digital world. My life goal? Connect, learn, and make a difference!
 
